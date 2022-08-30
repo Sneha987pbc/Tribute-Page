@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(172, 167, 167);
+}
+.hi{
+    color: rgb(91, 11, 11);
+    text-align: center;    
+}
+.oo{
+    margin: 50px auto;
+}
+.by{
+    margin-top: -38px;
+    padding-top: 0cm;
+}
+.image{
+    margin-top: 60px;
+   
+}
+div{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(147, 161, 156);
+    border-radius: 10px;
+   
+}
+img{
+ margin-left: 60px;
+ margin-bottom: 40px;
+}
+small{
+    margin-left: -500px;
+}
+p{
+    font-size: 21px;
+    font-weight: 8000px;
+}
+ul{
+    margin-top: 80px;
+    text-align: center;
+    list-style-position: inside;
+
+}
+.list{
+    font-size: 14px;
+    padding: 10px 10px 10px 10px;
+}
+.describe {
+     margin-top: auto;
+     text-align: center;
+}
+.dh{
+    color: brown;
+    font-size: 28px;
+    margin-top: 50px;
+}
+.dp{
+    font-size: 16px;
+}
+.thought{
+    width: 50%;
+    margin: auto;
+    background-color: burlywood;
+    margin-top: 30px;
+}
+.thought p{
+    /* text-align: center; */
+    margin: auto;
+    font-size: 16px;
+}
+
+
